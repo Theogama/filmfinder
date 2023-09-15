@@ -1,8 +1,5 @@
 const genre= [
-    {
-      "id": 709631,
-      "name": "Upcoming "
-    },
+
     {
       "id": 28,
       "name": "Action"
