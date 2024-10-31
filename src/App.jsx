@@ -5,10 +5,7 @@ import Slider from './Componets/Slider'
 import ProductionHouse from './Componets/ProductionHouse'
 import GenreMovieList from './Componets/GenreMovieList'
 
-
-
 function App() {
-  
 
   return (
     <div className='mt-5'>
