@@ -11,7 +11,7 @@ function App() {
   
 
   return (
-    <div className=''>
+    <div className='mt-5'>
       <Header />
       <Slider />
       <ProductionHouse />
